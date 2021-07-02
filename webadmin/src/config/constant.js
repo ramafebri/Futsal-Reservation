@@ -1,0 +1,10 @@
+export const TAMBAH = 'Tambah';
+export const UBAH = 'Ubah';
+export const DETAIL = 'Detil';
+export const HAPUS = 'Hapus';
+export const SUDAH = 'Sudah';
+export const TERTUNDA = 'Tertunda';
+export const YA = 'Ya';
+export const TIDAK = 'Tidak';
+export const BATAL = 'Batal';
+export const DUPLICATE_USER = 'Nomor telepon sudah terdaftar';
